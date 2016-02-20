@@ -1,0 +1,7 @@
+
+
+Flow:
+Program started by MainWindow.main(). This creates a window via the MainWindow constructor. As the user enters text in the m_findEntryField
+
+Map:
+MainWindow: the window that contains the item to be added
